@@ -19,4 +19,4 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 ## Reference Architecture
 
-- Pini Reznik: https://www.linkedin.com/posts/pinireznik_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA-%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B3%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B2-activity-7308078358460882946-Titz/
+- Pini Reznik: [The Platform Reference](https://www.linkedin.com/posts/pinireznik_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA-%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B3%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B2-activity-7308078358460882946-Titz)
