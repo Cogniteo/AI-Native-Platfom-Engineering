@@ -21,6 +21,8 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 ## KPIs and Metrics
 - [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
-- [Backstage](https://backstage.io/docs/next/overview/adopting/)
+- [Backstage](https://backstage.io/docs/next/overview/adopting)
+- [Puppet](https://www.puppet.com/blog/platform-engineering-metrics)
 
 ## Internal Developer Portal
+- [Backstage](https://www.backstage.com)
