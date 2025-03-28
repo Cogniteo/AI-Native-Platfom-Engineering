@@ -30,7 +30,7 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 ## Kubernetes Operator Pattern
 
-Description: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
+Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 
 ### Infrastructure Management
 
