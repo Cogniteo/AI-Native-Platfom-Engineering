@@ -8,6 +8,7 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 - [Platform Engineering](#platform-engineering)
 - [Internal Developer Platform](#internal-developer-platform)
 - [Internal Developer Portal](#internal-developer-portal)
+- [Kubernetes Operator Pattern](#kubernetes-operator-pattern)
 
 ## Platform Engineering
 
@@ -26,3 +27,19 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 ## Internal Developer Portal
 - [Backstage](https://www.backstage.com)
+
+## Kubernetes Operator Pattern
+
+Description: https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
+
+### Infrastructure Management
+
+| Vendor                  | Name                                        | Type        | GitHub                                                      | Notes                |
+|-------------------------|---------------------------------------------|-------------|-------------------------------------------------------------|----------------------|
+| Amazon                  | AWS Controllers for Kubernetes (ACK)        | Open Source | https://github.com/aws-controllers-k8s                      |                      |
+| Microsoft               | Azure Service Operator for Kubernetes (ASO) | Open Source | https://github.com/Azure/azure-service-operator             |                      |
+| Google                  | GCP Config Connector                        | Open Source | https://github.com/GoogleCloudPlatform/k8s-config-connector |                      |
+| Microsoft Google Amazon | Kube Resource Orchestrator (kro)            | Open Source | https://github.com/kro-run/kro                              |                      |
+| Microsoft Alibaba       | openvela                                    | Open Source | https://github.com/open-vela                                |                      |
+| Upbound                 | Crossplane                                  | Open Source | https://github.com/crossplane/crossplane                    | Terraform dependency |
+
