@@ -30,7 +30,7 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 ## Kubernetes Operator Pattern
 
-Description: https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
+Description: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 
 ### Infrastructure Management
 
@@ -43,3 +43,8 @@ Description: https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
 | Microsoft Alibaba       | openvela                                    | Open Source | https://github.com/open-vela                                |                      |
 | Upbound                 | Crossplane                                  | Open Source | https://github.com/crossplane/crossplane                    | Terraform dependency |
 
+### Why Terraform, Ansible, etc.. is bad?
+
+#### LinkedIn
+
+- [Daniel Gugel: "DevOps Engineers: Bash, Python, Terraform, and Ansible are not automation tools."](https://www.linkedin.com/posts/dangugel_bash-python-ansible-activity-7310705736345387008-NvWV)
