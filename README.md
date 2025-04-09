@@ -19,7 +19,7 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 ## Internal Developer Platform
 
 ## Return of Investment (ROI)
-- [Dollars and DevOps: The business case for Internal Developer Platforms](https://www.youtube.com/live/zKU5bdgJ0uE?si=zww_p4MgQH99RY3G)
+- [Natan Yellin: Dollars and DevOps: The business case for Internal Developer Platforms](https://www.youtube.com/live/zKU5bdgJ0uE?si=zww_p4MgQH99RY3G)
 
 
 ## Reference Architecture
