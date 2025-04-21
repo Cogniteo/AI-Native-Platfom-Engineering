@@ -33,6 +33,10 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 - [Puppet](https://www.puppet.com/blog/platform-engineering-metrics)
 
 ## Internal Developer Portal
+
+<img width="642" alt="Portals Market Share" src="https://github.com/user-attachments/assets/2d619c98-cbcc-44e8-86c5-d71f85bf9ae2" />
+
+## Portals
 - [Backstage](https://www.backstage.com)
 - [Port](https://www.port.io)
 - [Cortex](https://www.cortex.io)
