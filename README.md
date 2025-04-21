@@ -36,8 +36,13 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 ### Adoption
 
+#### Market Share
 <img width="642" alt="Portals Market Share" src="https://github.com/user-attachments/assets/2d619c98-cbcc-44e8-86c5-d71f85bf9ae2" />
+
+#### Backstage Adoption
 <img width="688" alt="Bacsktage Adoption" src="https://github.com/user-attachments/assets/30739587-7dc5-4a3f-8a9e-a3234d01ea73" />
+
+Source: https://youtu.be/7PeEK83Eg1g?si=LYlwIFQILqWSRSHS
 
 ### Portals
 - [Backstage](https://www.backstage.com)
