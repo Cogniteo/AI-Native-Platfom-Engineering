@@ -18,16 +18,16 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 ## Internal Developer Platform
 
-## Return of Investment (ROI)
+### Return of Investment (ROI)
 - [Natan Yellin: Dollars and DevOps: The business case for Internal Developer Platforms](https://www.youtube.com/live/zKU5bdgJ0uE?si=zww_p4MgQH99RY3G)
 - [Bartek Antoniak: The economics of internal developer platforms](https://www.engineeringprimer.com/p/the-economics-of-internal-developer)
 
 
-## Reference Architecture
+### Reference Architecture
 
 - [Pini Reznik: The Platform Reference](https://www.linkedin.com/posts/pinireznik_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA-%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B3%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B2-activity-7308078358460882946-Titz)
 
-## KPIs and Metrics
+### KPIs and Metrics
 - [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 - [Backstage](https://backstage.io/docs/next/overview/adopting)
 - [Puppet](https://www.puppet.com/blog/platform-engineering-metrics)
