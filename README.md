@@ -39,7 +39,17 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 
-### Infrastructure Management
+### Enterprises using Operators
+- [Mercedes: How to Migrate 700 Kubernetes Clusters to Cluster API with Zero Downtime](https://youtu.be/KzYV-fJ_wH0?si=dB2OymzyqxwUuau1)
+  - ClusterAPI 
+- [Michelin: Driving Innovation at Michelin: How We Scaled Cloud & On-Prem](https://youtu.be/l1JNAqAvpPw?si=MtOuJpS8qkhHO44o)
+  - ClusterAPI + Crossplane
+- [SAP: Gardener + Kyma]()
+  - Kyma + Gardener
+- [VMware: Cluster API Intro and Deep Dive](https://youtu.be/9H8flXm_lKk?si=tm-qwsqlBpk8sy14)
+  - ClusterAPI
+
+### Infrastructure Management Operators
 
 | Vendor                     | Name                                        | Type        | GitHub                                                      | Notes                   |
 |----------------------------|---------------------------------------------|-------------|-------------------------------------------------------------|-------------------------|
