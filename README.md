@@ -58,8 +58,10 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
   - ClusterAPI 
 - [Michelin: Driving Innovation at Michelin: How We Scaled Cloud & On-Prem](https://youtu.be/l1JNAqAvpPw?si=MtOuJpS8qkhHO44o)
   - ClusterAPI + Crossplane
-- [SAP: Kyma](https://kyma-project.io)[SAP: Gardener](https://gardener.cloud)
-  - Gardener + Kyma 
+- [SAP: Kyma](https://kyma-project.io)
+  - Kyma
+- [SAP: Gardener](https://gardener.cloud)
+  - Gardener
 - [VMware: Cluster API Intro and Deep Dive](https://youtu.be/9H8flXm_lKk?si=tm-qwsqlBpk8sy14)
   - ClusterAPI
 
