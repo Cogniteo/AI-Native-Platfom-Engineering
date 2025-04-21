@@ -48,6 +48,7 @@ Source: https://youtu.be/7PeEK83Eg1g?si=LYlwIFQILqWSRSHS
 - [Backstage](https://www.backstage.com)
 - [Port](https://www.port.io)
 - [Cortex](https://www.cortex.io)
+- [Krateo](https://krateo.io)
 
 ## Kubernetes Operator Pattern
 
