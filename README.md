@@ -76,6 +76,7 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 | Microsoft, Google, Amazon  | Kube Resource Orchestrator (kro)            | Open Source | https://github.com/kro-run/kro                              |                         |
 | Microsoft, Alibaba         | openvela                                    | Open Source | https://github.com/open-vela                                |                         |
 | Microsoft, IBM, VMWare     | ClusterAPI (CAPI)                           | Open Source | https://github.com/kubernetes-sigs/cluster-api              |                         |
+| SAP                        | Gardener                                    | Open Source | https://github.com/gardener/gardener                        |                         |
 | Upbound                    | Crossplane                                  | Open Source | https://github.com/crossplane/crossplane                    | Terraform dependency    |
 
 ### Control Planes & API Mesh
