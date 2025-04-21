@@ -55,7 +55,6 @@ Source: https://youtu.be/7PeEK83Eg1g?si=LYlwIFQILqWSRSHS
 Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 
 ### Enterprises using Kubernetes Operators 
-- [Airbnb, Booking.com, Toyota, Lego, Philips]
 - [Mercedes: How to Migrate 700 Kubernetes Clusters to Cluster API with Zero Downtime](https://youtu.be/KzYV-fJ_wH0?si=dB2OymzyqxwUuau1)
   - ClusterAPI 
 - [Michelin: Driving Innovation at Michelin: How We Scaled Cloud & On-Prem](https://youtu.be/l1JNAqAvpPw?si=MtOuJpS8qkhHO44o)
