@@ -34,9 +34,12 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 
 ## Internal Developer Portal
 
-<img width="642" alt="Portals Market Share" src="https://github.com/user-attachments/assets/2d619c98-cbcc-44e8-86c5-d71f85bf9ae2" />
+### Adoption
 
-## Portals
+<img width="642" alt="Portals Market Share" src="https://github.com/user-attachments/assets/2d619c98-cbcc-44e8-86c5-d71f85bf9ae2" />
+<img width="688" alt="Bacsktage Adoption" src="https://github.com/user-attachments/assets/30739587-7dc5-4a3f-8a9e-a3234d01ea73" />
+
+### Portals
 - [Backstage](https://www.backstage.com)
 - [Port](https://www.port.io)
 - [Cortex](https://www.cortex.io)
