@@ -77,8 +77,13 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 | Microsoft, Alibaba         | openvela                                    | Open Source | https://github.com/open-vela                                |                         |
 | Microsoft, IBM, VMWare     | ClusterAPI (CAPI)                           | Open Source | https://github.com/kubernetes-sigs/cluster-api              |                         |
 | Upbound                    | Crossplane                                  | Open Source | https://github.com/crossplane/crossplane                    | Terraform dependency    |
-| Kubermatic                 | kcp                                         | Open Source | https://github.com/kcp-dev                                  | API Mesh + Multicluster |
 
+### Control Planes & API Mesh
+
+| Vendor                     | Name                                        | Type        | GitHub                                                      | Notes                   |
+|----------------------------|---------------------------------------------|-------------|-------------------------------------------------------------|-------------------------|
+| Kubermatic, RedHat, VMware | kcp                                         | Open Source | https://github.com/kcp-dev                                  | API Mesh + Multicluster |
+| Clastix                    | Kamaji                                      | Open Source | https://github.com/clastix/kamaji                           | Control Plane Manager   |
 
 ### Why Terraform, Ansible, etc.. is bad?
 
