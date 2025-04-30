@@ -4,7 +4,7 @@
 
 Collection of information on Platform Engineering and Internal Developer Platforms.
 
-## Table of Contents
+# Table of Contents
 - [Platform Engineering](#platform-engineering)
 - [Internal Developer Platform](#internal-developer-platform)
 - [Internal Developer Portal](#internal-developer-portal)
@@ -12,52 +12,52 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 - [Kubernetes Operator Pattern](#kubernetes-operator-pattern)
 - [Automation](#automation)
 
-## Platform Engineering
+# Platform Engineering
 
-### YouTube
+## YouTube
 - [HashiCorp: What is an Internal Developer Platform (IDP)?](https://youtu.be/2Nrlkn-km5A?si=jUuIg70NWKBVcKUf)
 - [DevOps Toolkit: How To Create A Complete Internal Developer Platform (IDP)?](https://youtu.be/Rg98GoEHBd4?si=0rQ2hA411-EUdRNx)
 
-## Internal Developer Platform
+# Internal Developer Platform
 
-### Return of Investment (ROI)
+## Return of Investment (ROI)
 - [Natan Yellin: Dollars and DevOps: The business case for Internal Developer Platforms](https://www.youtube.com/live/zKU5bdgJ0uE?si=zww_p4MgQH99RY3G)
 - [Bartek Antoniak: The economics of internal developer platforms](https://www.engineeringprimer.com/p/the-economics-of-internal-developer)
 
 
-### Reference Architecture
+## Reference Architecture
 
 - [Pini Reznik: The Platform Reference](https://www.linkedin.com/posts/pinireznik_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA-%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B3%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B2-activity-7308078358460882946-Titz)
 - [Apeiro by SAP](https://documentation.apeirora.eu)
 
-### KPIs and Metrics
+## KPIs and Metrics
 - [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 - [Backstage](https://backstage.io/docs/next/overview/adopting)
 - [Puppet](https://www.puppet.com/blog/platform-engineering-metrics)
 
-## Internal Developer Portal
+# Internal Developer Portal
 
-### Adoption
+## Adoption
 
-#### Market Share
+### Market Share
 <img width="642" alt="Portals Market Share" src="https://github.com/user-attachments/assets/2d619c98-cbcc-44e8-86c5-d71f85bf9ae2" />
 
-#### Backstage Adoption
+### Backstage Adoption
 <img width="688" alt="Bacsktage Adoption" src="https://github.com/user-attachments/assets/30739587-7dc5-4a3f-8a9e-a3234d01ea73" />
 
 Source: https://youtu.be/7PeEK83Eg1g?si=LYlwIFQILqWSRSHS
 
-### Portals
+## Portals
 - [Backstage](https://www.backstage.com)
 - [Port](https://www.port.io)
 - [Cortex](https://www.cortex.io)
 - [Krateo](https://krateo.io)
 
-## Kubernetes Operator Pattern
+# Kubernetes Operator Pattern
 
 Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 
-### Enterprises using Kubernetes Operators 
+## Enterprises using Kubernetes Operators 
 - [Mercedes: How to Migrate 700 Kubernetes Clusters to Cluster API with Zero Downtime](https://youtu.be/KzYV-fJ_wH0?si=dB2OymzyqxwUuau1)
   - ClusterAPI 
 - [Michelin: Driving Innovation at Michelin: How We Scaled Cloud & On-Prem](https://youtu.be/l1JNAqAvpPw?si=MtOuJpS8qkhHO44o)
@@ -69,11 +69,11 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 - [VMware: Cluster API Intro and Deep Dive](https://youtu.be/9H8flXm_lKk?si=tm-qwsqlBpk8sy14)
   - ClusterAPI
 
-### Enterprises using Internal Developer Portals 
+## Enterprises using Internal Developer Portals 
 - [Airbnb, Booking.com, Toyota, Lego, Philips using Backstage](https://youtu.be/7PeEK83Eg1g?si=AhhSNqFIgv6Laba1)
   - Backstage
 
-### Infrastructure Management Operators
+## Infrastructure Management Operators
 
 | Vendor                     | Name                                        | Type        | GitHub                                                      | Notes                   |
 |----------------------------|---------------------------------------------|-------------|-------------------------------------------------------------|-------------------------|
@@ -86,19 +86,25 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 | SAP                        | Gardener                                    | Open Source | https://github.com/gardener/gardener                        |                         |
 | Upbound                    | Crossplane                                  | Open Source | https://github.com/crossplane/crossplane                    | Terraform dependency    |
 
-### Control Planes & API Mesh
+## Control Planes & API Mesh
 
 | Vendor                     | Name                                        | Type        | GitHub                                                      | Notes                   |
 |----------------------------|---------------------------------------------|-------------|-------------------------------------------------------------|-------------------------|
 | Kubermatic, RedHat, VMware | kcp                                         | Open Source | https://github.com/kcp-dev                                  | API Mesh + Multicluster |
 | Clastix                    | Kamaji                                      | Open Source | https://github.com/clastix/kamaji                           | Control Plane Manager   |
 
-### Why Terraform, Ansible, etc.. is bad?
+## Why Terraform, Ansible, etc.. is bad?
 
-#### LinkedIn
-
+### LinkedIn
 - [Daniel Gugel: "DevOps Engineers: Bash, Python, Terraform, and Ansible are not automation tools."](https://www.linkedin.com/posts/dangugel_bash-python-ansible-activity-7310705736345387008-NvWV)
 
-## Automation
+# Automation
+
+## Patterns
+- [Controller Pattern by SAP](https://documentation.apeirora.eu/next/digital-twins/controller#proportional-integral-derivative)
+- [Controller Pattern by Google](https://kubernetes.io/docs/concepts/architecture/controller)
+- [Kubernetes Operator Pattern](https://kubernetes.io/docs/concepts/extend-kubernetes/operator)
+- [PID: Proportional-Integral-Derivative](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller)
+
 
 
