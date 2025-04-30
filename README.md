@@ -105,8 +105,10 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 ### History
 ![image](https://github.com/user-attachments/assets/73d91f25-06da-45e1-af27-2d684141bf2d)
 
-### Present Models
+### Available Models
 ![image](https://github.com/user-attachments/assets/1e4329d4-5adc-44c3-9e95-d26821c18997)
+
+### RedHat Proposal
 ![image](https://github.com/user-attachments/assets/806b4064-d850-47eb-bc63-c025831f9f04)
 
 
