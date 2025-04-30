@@ -8,7 +8,9 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 - [Platform Engineering](#platform-engineering)
 - [Internal Developer Platform](#internal-developer-platform)
 - [Internal Developer Portal](#internal-developer-portal)
+- [Platform Mesh](#platform-mesh)
 - [Kubernetes Operator Pattern](#kubernetes-operator-pattern)
+- [Automation](#automation)
 
 ## Platform Engineering
 
@@ -26,6 +28,7 @@ Collection of information on Platform Engineering and Internal Developer Platfor
 ### Reference Architecture
 
 - [Pini Reznik: The Platform Reference](https://www.linkedin.com/posts/pinireznik_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA-%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B3%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B2-activity-7308078358460882946-Titz)
+- [Apeiro by SAP](https://documentation.apeirora.eu)
 
 ### KPIs and Metrics
 - [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
@@ -95,3 +98,7 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 #### LinkedIn
 
 - [Daniel Gugel: "DevOps Engineers: Bash, Python, Terraform, and Ansible are not automation tools."](https://www.linkedin.com/posts/dangugel_bash-python-ansible-activity-7310705736345387008-NvWV)
+
+## Automation
+
+
