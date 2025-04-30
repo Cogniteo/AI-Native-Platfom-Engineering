@@ -2,7 +2,7 @@
 
 # [Awesome Platform Engineering](https://github.com/Cogniteo/awesome-platform-engineering)
 
-Collection of information on Platform Engineering and Internal Developer Platforms.
+Collection of information on Platform Engineering, Cloud Native Platform Mesh, and Internal Developer Platforms.
 
 # Table of Contents
 - [Platform Engineering](#platform-engineering)
