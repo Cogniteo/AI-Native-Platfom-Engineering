@@ -62,6 +62,8 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
   - ClusterAPI 
 - [Michelin: Driving Innovation at Michelin: How We Scaled Cloud & On-Prem](https://youtu.be/l1JNAqAvpPw?si=MtOuJpS8qkhHO44o)
   - ClusterAPI + Crossplane
+- [HSBC Bank](https://mesoform.com/resources/blog/case-studies/the-building-of-colossus-taking-a-global-financial-giant-s-internal-developer-platform-to-the-next-level)
+  - Google Config Connector
 - [SAP: Kyma](https://kyma-project.io)
   - Kyma
 - [SAP: Gardener](https://gardener.cloud)
