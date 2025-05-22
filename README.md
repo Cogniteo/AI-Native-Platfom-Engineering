@@ -5,12 +5,14 @@
 Collection of information on Platform Engineering, Cloud Native Platform Mesh, and Internal Developer Platforms.
 
 # Table of Contents
+- [Automation](#automation)
+- [Kubernetes Operator Pattern](#kubernetes-operator-pattern)
 - [Platform Engineering](#platform-engineering)
 - [Internal Developer Platform](#internal-developer-platform)
 - [Internal Developer Portal](#internal-developer-portal)
 - [Platform Mesh](#platform-mesh)
-- [Kubernetes Operator Pattern](#kubernetes-operator-pattern)
-- [Automation](#automation)
+- [AI Agents](#ai-agents)
+
 
 # Platform Engineering
 
@@ -121,4 +123,5 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 - [PID: Proportional-Integral-Derivative](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller)
 
 
-
+# AI Agents
+- [AI Platform Engineer: Jarvis v1.0](https://github.com/cnoe-io/agentic-ai/wiki/Release-1.0)
