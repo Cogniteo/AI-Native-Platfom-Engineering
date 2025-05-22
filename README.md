@@ -2,7 +2,7 @@
 
 # [Awesome Platform Engineering](https://github.com/Cogniteo/awesome-platform-engineering)
 
-Collection of information on Platform Engineering, Cloud Native Platform Mesh, and Internal Developer Platforms.
+Collecting information on Platform Engineering, Cloud Native Platform Mesh, and Internal Developer Platforms.
 
 # Table of Contents
 - [Automation](#automation)
@@ -19,6 +19,10 @@ Collection of information on Platform Engineering, Cloud Native Platform Mesh, a
 ## YouTube
 - [HashiCorp: What is an Internal Developer Platform (IDP)?](https://youtu.be/2Nrlkn-km5A?si=jUuIg70NWKBVcKUf)
 - [DevOps Toolkit: How To Create A Complete Internal Developer Platform (IDP)?](https://youtu.be/Rg98GoEHBd4?si=0rQ2hA411-EUdRNx)
+
+## DevEx
+
+- [DX Core 4](https://www.linkedin.com/pulse/introducing-dx-core-4-abi-noda-pub0c)
 
 # Internal Developer Platform
 
