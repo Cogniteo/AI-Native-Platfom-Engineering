@@ -30,6 +30,8 @@ Collecting information on Platform Engineering, Cloud Native Platform Mesh, and 
 - [Natan Yellin: Dollars and DevOps: The business case for Internal Developer Platforms](https://www.youtube.com/live/zKU5bdgJ0uE?si=zww_p4MgQH99RY3G)
 - [Bartek Antoniak: The economics of internal developer platforms](https://www.engineeringprimer.com/p/the-economics-of-internal-developer)
 
+## Cost Optimisation
+- [SAP: Leaner Clusters, Lower Bills](https://gardener.cloud/blog/2025/04-17-leaner-clusters-lower-bills)
 
 ## Reference Architecture
 
