@@ -1,6 +1,6 @@
 [![Cogniteo](https://cogniteo.io/images/icononly_transparent_nobuffer.png)](https://cogniteo.io)
 
-# [Awesome Platform Engineering](https://github.com/Cogniteo/awesome-platform-engineering)
+# [Awesome Platform Mesh Engineering](https://github.com/Cogniteo/awesome-platform-engineering)
 
 Collecting information on Platform Engineering, Cloud Native Platform Mesh, and Internal Developer Platforms.
 
