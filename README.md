@@ -1,8 +1,8 @@
 [![Cogniteo](https://cogniteo.io/images/icononly_transparent_nobuffer.png)](https://cogniteo.io)
 
-# [Awesome AI Platform Mesh](https://github.com/Cogniteo/awesome-platform-engineering)
+# [AI Native Platform Engineering](https://github.com/Cogniteo/AI-Native-Platform-Engineering)
 
-Collecting information on Platform Engineering, Cloud Native Platform Mesh, and Internal Developer Platforms.
+Collecting information on AI Native Platform Engineering, Cloud Native Platform Mesh, and Internal Developer Platforms.
 
 # Table of Contents
 - [Automation](#automation)
