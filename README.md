@@ -1,6 +1,6 @@
 [![Cogniteo](https://cogniteo.io/images/icononly_transparent_nobuffer.png)](https://cogniteo.io)
 
-# [AI Native DevOps, SRE & Platform Engineering](https://github.com/Cogniteo/AI-Native-DevOps)
+# [AI Native DevOps, SRE & Platform Engineering](https://github.com/Cogniteo/AI-Native-Ops)
 
 Collecting information on AI Native DevOps, SRE, Platform Engineering, Platfrom Mesh and Internal Developer Platforms.
 
