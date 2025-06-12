@@ -2,7 +2,7 @@
 
 # [AI Native DevOps, SRE & Platform Engineering](https://github.com/Cogniteo/AI-Native-DevOps)
 
-Collecting information on AI Native Platform Engineering, Cloud Native Platform Mesh, and Internal Developer Platforms.
+Collecting information on AI Native DevOps, SRE, Platform Engineering, Platfrom Mesh and Internal Developer Platforms.
 
 # Table of Contents
 - [Automation](#automation)
