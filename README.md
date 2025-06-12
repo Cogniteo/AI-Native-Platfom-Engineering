@@ -120,7 +120,7 @@ Introduction: https://kubernetes.io/docs/concepts/extend-kubernetes/operator
 
 ### RedHat Proposal
 ![image](https://github.com/user-attachments/assets/806b4064-d850-47eb-bc63-c025831f9f04)
-
+* modified by cogniteo.io
 
 ## Patterns
 - [Controller Pattern by SAP](https://documentation.apeirora.eu/next/digital-twins/controller#proportional-integral-derivative)
