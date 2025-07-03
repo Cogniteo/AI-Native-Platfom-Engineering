@@ -12,6 +12,8 @@ Collecting information on AI Native DevOps, SRE, Platform Engineering, Platfrom 
 - [Internal Developer Portal](#internal-developer-portal)
 - [Platform Mesh](#platform-mesh)
 - [AI Agents](#ai-agents)
+- [Events](#events)
+- [Community](#community)
 
 
 # Platform Engineering
@@ -131,3 +133,13 @@ Remark: modified by cogniteo.io
 
 # AI Agents
 - [AI Platform Engineer: Jarvis v1.0](https://github.com/cnoe-io/agentic-ai/wiki/Release-1.0)
+
+# Events
+- [AI-Native Platform Engineering: "AI-Native Enterprise Architecture"](https://lu.ma/klyp1okf)
+- [AI-Native Platform Engineering Warsaw: "AI-Native Enterprise Architecture"](https://lu.ma/st2e7c2e)
+- [AI-Native Platform Engineering Zurich: "AI-Native Enterprise Architecture"](https://lu.ma/qms3d49a)
+  
+# Community
+- [LinkedIn](https://www.linkedin.com/company/ai-native-platfrom-engineering/?viewAsMember=true)
+- [Slack](https://cloud-native.slack.com/archives/C093U0DN49H)
+- [YouTube](www.youtube.com/@ai-native-platform-engineering)
