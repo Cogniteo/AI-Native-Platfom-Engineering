@@ -1,8 +1,8 @@
 [![Cogniteo](https://cogniteo.io/images/icononly_transparent_nobuffer.png)](https://cogniteo.io)
 
-# [AI-Native Platform Engineering, DevOps, SRE](https://github.com/Cogniteo/AI-Native-Ops)
+# [AI-Native Platform Engineering](https://github.com/Cogniteo/AI-Native-Ops)
 
-Collecting information on AI Native DevOps, SRE, Platform Engineering, Platfrom Mesh and Internal Developer Platforms.
+Collecting information on AI-Native Platform Enginereing and AI Platforms.
 
 # Table of Contents
 - [Automation](#automation)
